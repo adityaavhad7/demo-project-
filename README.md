@@ -15,5 +15,5 @@ It contains simple C programs created while learning the basics of programming i
 ## 🧠 About
 These programs are written to practice input/output, loops, and conditional statements in C.
 
-#👤 Author
-Aditya Avhad
+## 👤 Author
+**Aditya Avhad**
