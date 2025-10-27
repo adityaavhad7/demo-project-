@@ -15,8 +15,7 @@ These programs are designed to help me practice:
 2. **sum.c** → Calculates the sum of two numbers using user input  
 3. **average.c** → Calculates the average of three numbers  
 4. **even_odd.c** → Checks whether a number is even or odd  
-5. **calculator.c** → Performs basic arithmetic operations  
-6. **factorial.c** → Calculates the factorial of a number  
-
+5. **calculator.c** → Performs basic arithmetic operations
+  
 ## 💡 Purpose
 This repository reflects my learning journey in **C programming**, focusing on building a strong foundation in logic, syntax, and problem-solving.
