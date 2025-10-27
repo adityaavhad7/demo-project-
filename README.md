@@ -8,8 +8,7 @@ These programs are designed to help me practice:
 - Variables and Data Types  
 - Input and Output  
 - Loops and Conditional Statements  
-- Functions  
-- (File Handling – coming soon)
+- Functions
 
 ## 📁 Programs Included
 1. **hello.c** → Prints “Hello, World!”  
